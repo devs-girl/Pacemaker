@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Rubik', sans-serif;
+}
+.contain {
+  @apply container mx-auto;
+}
+.fl {
+  @apply flex justify-between items-center;
+}
+.flj {
+  @apply flex justify-between;
+}
+.list {
+  @apply flex items-center justify-center text-base font-normal text-[#A0A0A0] leading-5;
+}
+.selectOption .ant-select-selector {
+  height: 38px !important;
+}
+.selectOption .ant-select-selection-item {
+  display: flex !important;
+  align-items: center !important;
+}
+.dragNDrop .ant-upload-drag {
+  width: 430px !important;
+}
+.selectCustom .ant-select-selector {
+  width: 430px !important;
+}
+.tox-statusbar {
+  display: none !important;
+}
+.tox-tinymce {
+  height: 180px !important;
+}
+@media screen and (max-width: 600px) {
+  .dragNDrop .ant-upload-drag {
+    width: 90% !important;
+  }
+  .selectCustom .ant-select-selector {
+    width: 240px !important;
+  }
+  .tox-tinymce {
+    height: 140px !important;
+  }
+}

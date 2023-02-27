@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "type": "Available",
+    "title": "Apple iPhone 11 Pro Max 256GB Space Gray",
+    "date": "12.09.20",
+    "name": "Phone",
+    "price": "$2.500",
+    "img": "https://i.ibb.co/sg69f8j/transparent-img.png"
+  },
+  {
+    "id": "2",
+    "type": "Available",
+    "title": "Apple iPhone 11 Pro Max 256GB Space Gray",
+    "date": "12.09.20",
+    "name": "Phone",
+    "price": "$2.500",
+    "img": "https://i.ibb.co/sg69f8j/transparent-img.png"
+  },
+  {
+    "id": "3",
+    "type": "Prototype",
+    "title": "Apple iPhone 11 Pro Max 256GB Space Gray",
+    "date": "12.09.20",
+    "name": "Phone",
+    "price": "$2.500",
+    "img": "https://i.ibb.co/sg69f8j/transparent-img.png"
+  },
+  {
+    "id": "4",
+    "type": "Disabled",
+    "title": "Apple iPhone 11 Pro Max 256GB Space Gray",
+    "date": "12.09.20",
+    "name": "Phone",
+    "price": "$2.500",
+    "img": "https://i.ibb.co/sg69f8j/transparent-img.png"
+  },
+  {
+    "id": "5",
+    "type": "Available",
+    "title": "Apple iPhone 11 Pro Max 256GB Space Gray",
+    "date": "12.09.20",
+    "name": "Phone",
+    "price": "$2.500",
+    "img": "https://i.ibb.co/sg69f8j/transparent-img.png"
+  },
+  {
+    "id": "6",
+    "type": "Available",
+    "title": "Apple iPhone 11 Pro Max 256GB Space Gray",
+    "date": "12.09.20",
+    "name": "Phone",
+    "price": "$2.500",
+    "img": "https://i.ibb.co/sg69f8j/transparent-img.png"
+  },
+  {
+    "id": "7",
+    "type": "Available",
+    "title": "Apple iPhone 11 Pro Max 256GB Space Gray",
+    "date": "12.09.20",
+    "name": "Phone",
+    "price": "$2.500",
+    "img": "https://i.ibb.co/sg69f8j/transparent-img.png"
+  },
+  {
+    "id": "8",
+    "type": "Available",
+    "title": "Apple iPhone 11 Pro Max 256GB Space Gray",
+    "date": "12.09.20",
+    "name": "Phone",
+    "price": "$2.500",
+    "img": "https://i.ibb.co/sg69f8j/transparent-img.png"
+  },
+  {
+    "id": "9",
+    "type": "Available",
+    "title": "Apple iPhone 11 Pro Max 256GB Space Gray",
+    "date": "12.09.20",
+    "name": "Phone",
+    "price": "$2.500",
+    "img": "https://i.ibb.co/sg69f8j/transparent-img.png"
+  },
+  {
+    "id": "10",
+    "type": "Available",
+    "title": "Apple iPhone 11 Pro Max 256GB Space Gray",
+    "date": "12.09.20",
+    "name": "Phone",
+    "price": "$2.500",
+    "img": "https://i.ibb.co/sg69f8j/transparent-img.png"
+  }
+]
